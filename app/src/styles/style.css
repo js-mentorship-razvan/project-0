@@ -1,6 +1,9 @@
 table, th, td {
     border: 1px solid darkgrey;
 }
+table {
+    border-collapse: collapse;
+}
 th {
     color:#fff;
     background-color:#43424b;
