@@ -20,3 +20,8 @@ td {
     border: 1px solid #dfdfdf;
     text-align: center;
 }
+
+img {
+    height: fit-content;
+    width: fit-content;
+}
