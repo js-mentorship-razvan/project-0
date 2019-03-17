@@ -16,9 +16,18 @@ td a {
     text-decoration: none;
     display: block;
 }
+
 td {
     border: 1px solid #dfdfdf;
     text-align: center;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: darkred;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 img {
