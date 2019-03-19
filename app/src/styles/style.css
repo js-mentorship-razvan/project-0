@@ -1,6 +1,11 @@
 table, th, td {
     border: 1px solid darkgrey;
 }
+
+.threeway {
+    float: left;
+}
+
 table {
     border-collapse: collapse;
 }
