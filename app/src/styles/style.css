@@ -4,6 +4,7 @@ table, th, td {
 
 .threeway {
     float: left;
+    margin-right: 30px;
 }
 
 table {
