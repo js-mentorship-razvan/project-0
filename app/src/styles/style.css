@@ -27,6 +27,7 @@ td {
     border: 1px solid #dfdfdf;
     text-align: center;
     height: 30px;
+    padding: 0;
 }
 
 a:hover,
