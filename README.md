@@ -7,4 +7,4 @@ This app is designed for Spin & Go games. It's purpose is to make preflop decisi
 ## Project outcomes: 
 - learn the basics of HTML
 - learn the basics of CSS
-- learn how to use 'document.getElementByID()' to manipulate DOM.
+- learn how to use `document.getElementByID()` to manipulate DOM.
